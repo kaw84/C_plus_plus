@@ -1,8 +1,6 @@
 #include <iostream>
 
 int main() {
-
-  // Write a for loop here:
   
   for (int i = 100; i > 0; i--)
   {
